@@ -1,2 +1,0 @@
-# Manager
-Maintain Your Schedule
